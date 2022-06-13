@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-11T16:45:26 IST" name="Suite" finished-at="2022-06-11T16:45:39 IST" duration-ms="13114">
+    <groups>
+    </groups>
+    <test started-at="2022-06-11T16:45:26 IST" name="Test" finished-at="2022-06-11T16:45:39 IST" duration-ms="13114">
+      <class name="com.SauceDemo.TestClasses.TC01_LoginFunctionality">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.SauceDemo.TestClasses.TC01_LoginFunctionality@31368b99]" started-at="2022-06-11T16:45:37 IST" name="setup" finished-at="2022-06-11T16:45:39 IST" duration-ms="2069" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginFunctionalityTest()[pri:0, instance:com.SauceDemo.TestClasses.TC01_LoginFunctionality@31368b99]" started-at="2022-06-11T16:45:39 IST" name="loginFunctionalityTest" finished-at="2022-06-11T16:45:39 IST" duration-ms="187" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginFunctionalityTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.SauceDemo.TestClasses.TC01_LoginFunctionality@31368b99]" started-at="2022-06-11T16:45:39 IST" name="tearDown" finished-at="2022-06-11T16:45:39 IST" duration-ms="119" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.SauceDemo.TestClasses.TC01_LoginFunctionality -->
+      <class name="com.SauceDemo.TestClasses.TC03SingleProductAddToCardFunctionality">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.SauceDemo.TestClasses.TC03SingleProductAddToCardFunctionality@50b472aa]" started-at="2022-06-11T16:45:34 IST" name="setup" finished-at="2022-06-11T16:45:36 IST" duration-ms="2149" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="SingleProductAddToCard()[pri:0, instance:com.SauceDemo.TestClasses.TC03SingleProductAddToCardFunctionality@50b472aa]" started-at="2022-06-11T16:45:36 IST" name="SingleProductAddToCard" finished-at="2022-06-11T16:45:37 IST" duration-ms="472" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SingleProductAddToCard -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.SauceDemo.TestClasses.TC03SingleProductAddToCardFunctionality@50b472aa]" started-at="2022-06-11T16:45:37 IST" name="tearDown" finished-at="2022-06-11T16:45:37 IST" duration-ms="125" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.SauceDemo.TestClasses.TC03SingleProductAddToCardFunctionality -->
+      <class name="com.SauceDemo.TestClasses.TC04MultipalProductAddToCardFunctionality">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.SauceDemo.TestClasses.TC04MultipalProductAddToCardFunctionality@6ca8564a]" started-at="2022-06-11T16:45:31 IST" name="setup" finished-at="2022-06-11T16:45:33 IST" duration-ms="2467" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginFunctionalityTest()[pri:0, instance:com.SauceDemo.TestClasses.TC04MultipalProductAddToCardFunctionality@6ca8564a]" started-at="2022-06-11T16:45:33 IST" name="loginFunctionalityTest" finished-at="2022-06-11T16:45:34 IST" duration-ms="503" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginFunctionalityTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.SauceDemo.TestClasses.TC04MultipalProductAddToCardFunctionality@6ca8564a]" started-at="2022-06-11T16:45:34 IST" name="tearDown" finished-at="2022-06-11T16:45:34 IST" duration-ms="154" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.SauceDemo.TestClasses.TC04MultipalProductAddToCardFunctionality -->
+      <class name="com.SauceDemo.TestClasses.TC02_logoutFunctionality">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.SauceDemo.TestClasses.TC02_logoutFunctionality@61230f6a]" started-at="2022-06-11T16:45:26 IST" name="setup" finished-at="2022-06-11T16:45:31 IST" duration-ms="4468" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="logOutFunctionality()[pri:0, instance:com.SauceDemo.TestClasses.TC02_logoutFunctionality@61230f6a]" started-at="2022-06-11T16:45:31 IST" name="logOutFunctionality" finished-at="2022-06-11T16:45:31 IST" duration-ms="208" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOutFunctionality -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.SauceDemo.TestClasses.TC02_logoutFunctionality@61230f6a]" started-at="2022-06-11T16:45:31 IST" name="tearDown" finished-at="2022-06-11T16:45:31 IST" duration-ms="162" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.SauceDemo.TestClasses.TC02_logoutFunctionality -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
